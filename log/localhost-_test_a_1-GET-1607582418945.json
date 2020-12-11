@@ -1,0 +1,17 @@
+{
+  "baseUrl": "",
+  "fresh": false,
+  "hostname": "localhost",
+  "ip": "::1",
+  "ips": [],
+  "method": "GET",
+  "originalUrl": "/test?a=1",
+  "params": {
+    "0": "test"
+  },
+  "path": "/test",
+  "protocol": "http",
+  "query": {
+    "a": "1"
+  }
+}
